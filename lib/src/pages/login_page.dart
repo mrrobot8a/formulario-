@@ -82,7 +82,7 @@ class _LoginPageState extends State<LoginPage> {
               height: 10.0,
             ),
             Text(
-              'Jhon anderson peralta ochoa',
+              'Jovani mendoza',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 20,
